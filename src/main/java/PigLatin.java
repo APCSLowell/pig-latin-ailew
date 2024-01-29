@@ -1,7 +1,3 @@
-import java.io.File;  // Import the File class
-import java.io.FileNotFoundException;  // Import this class to handle errors
-import java.util.Scanner; // Import the Scanner class to read text files
-
 public void setup() 
 {
   String[] lines = {"beast","dough","happy","question","star","three","eagle","try"};  System.out.println("there are " + lines.length + " lines");
